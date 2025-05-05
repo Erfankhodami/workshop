@@ -5,13 +5,13 @@ fn main() {
     let x:Vec<u64>=args.skip(1).map(|x| x.parse::<u64>().unwrap()).filter(|x| x%2==0).collect();
     println!("{:?}",x);
 */
-
+/*
     let args = std::env::args();
     let x:Vec<dyn UpperHex>=args.skip(1).map(|x| x.parse::<dyn UpperHex>().unwrap()).collect();
     for n in x {
         println!("{:X}",n);
     }
-
+*/
 /*    let args = std::env::args();
     let x:bool=args.skip(1).map(|x| x.parse::<u64>().unwrap()).all(|x| x%5==0);
     println!("{}",x as u8);
