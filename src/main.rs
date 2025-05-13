@@ -1,8 +1,10 @@
-mod e7;
+mod e3;
+mod e4;
+mod e5;
 mod e6;
+mod e7;
 
 use std::fmt::UpperHex;
-
 fn main() {
 /*    let args = std::env::args();
     let x:Vec<u64>=args.skip(1).map(|x| x.parse::<u64>().unwrap()).filter(|x| x%2==0).collect();
@@ -41,10 +43,9 @@ fn main() {
     println!("{result}");
 */
 
-    let salam = String::from_utf8(e6::to_utf8('c')).unwrap();
-    println!("{}",salam);
-
-
-    //test
+    //e3::mainfn();
+    //e4::mainfn();
+    //e5::mainfn();
+    //e6::mainfn();
 }
 
