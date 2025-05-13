@@ -3,6 +3,7 @@ mod e4;
 mod e5;
 mod e6;
 mod e7;
+mod e8;
 
 use std::fmt::UpperHex;
 fn main() {
@@ -47,5 +48,6 @@ fn main() {
     //e4::mainfn();
     //e5::mainfn();
     //e6::mainfn();
+    e8::mainfn();
 }
 
