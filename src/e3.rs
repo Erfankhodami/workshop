@@ -5,6 +5,7 @@ enum Situation {
     Kaghaz(u8),
     Gheychi(u8),
 }
+//helllo
 
 pub fn mainfn() {
     let mut rn = rand::thread_rng();
