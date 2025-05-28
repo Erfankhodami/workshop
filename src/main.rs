@@ -4,6 +4,7 @@ mod e5;
 mod e6;
 mod e7;
 mod e8;
+mod modWeather;
 
 use std::fmt::UpperHex;
 fn main() {
