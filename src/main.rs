@@ -4,7 +4,8 @@ mod e5;
 mod e6;
 mod e7;
 mod e8;
-mod modWeather;
+mod Weather;
+mod Network;
 
 use std::fmt::UpperHex;
 fn main() {
