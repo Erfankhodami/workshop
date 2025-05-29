@@ -7,6 +7,13 @@ mod e8;
 mod Weather;
 mod Network;
 
+//mod e8;
+mod e9;
+mod e11;
+mod e10;
+mod e12;
+
+
 use std::fmt::UpperHex;
 fn main() {
 /*    let args = std::env::args();
@@ -50,6 +57,8 @@ fn main() {
     //e4::mainfn();
     //e5::mainfn();
     //e6::mainfn();
-    e8::mainfn();
+    //e8::mainfn();
+    //e11::mainfn();
+    e12::mainfn();
 }
 

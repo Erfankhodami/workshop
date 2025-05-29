@@ -1,0 +1,50 @@
+{
+  "rust": {
+    "filename": "main.rs",
+    "content": "// Rust program\nfn main() {\n    println!(\"Hello, Rust!\");\n}"
+  },
+  "python": {
+    "filename": "script.py",
+    "content": "# Python script\nif __name__ == \"__main__\":\n    print(\"Hello, Python!\")"
+  },
+  "javascript": {
+    "filename": "script.js",
+    "content": "// JavaScript program\nconsole.log(\"Hello, JavaScript!\");"
+  },
+  "java": {
+    "filename": "Main.java",
+    "content": "// Java program\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, Java!\");\n    }\n}"
+  },
+  "c": {
+    "filename": "main.c",
+    "content": "// C program\n#include <stdio.h>\n\nint main() {\n    printf(\"Hello, C!\\n\");\n    return 0;\n}"
+  },
+  "go": {
+    "filename": "main.go",
+    "content": "// Go program\npackage main\n\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello, Go!\")\n}"
+  },
+  "typescript": {
+    "filename": "script.ts",
+    "content": "// TypeScript program\nconsole.log(\"Hello, TypeScript!\");"
+  },
+  "swift": {
+    "filename": "main.swift",
+    "content": "// Swift program\nprint(\"Hello, Swift!\")"
+  },
+  "kotlin": {
+    "filename": "Main.kt",
+    "content": "// Kotlin program\nfun main() {\n    println(\"Hello, Kotlin!\")\n}"
+  },
+  "ruby": {
+    "filename": "script.rb",
+    "content": "# Ruby script\nputs \"Hello, Ruby!\""
+  },
+  "php": {
+    "filename": "script.php",
+    "content": "<?php\n// PHP script\necho \"Hello, PHP!\";\n?>"
+  },
+  "bash": {
+    "filename": "script.sh",
+    "content": "#!/bin/bash\n# Bash script\necho \"Hello, Bash!\""
+  }
+}
